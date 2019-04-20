@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+c:\users\admin\downloads\snake game\newsnake\newsnake\thesnakesgame.h(24): warning C4091: 'typedef ': ignored on left of 'replaySnakeData' when no variable is declared
+c:\users\admin\downloads\snake game\newsnake\newsnake\thesnakesgame.h(29): warning C4091: 'typedef ': ignored on left of 'replayNumbers' when no variable is declared
+c:\users\admin\downloads\snake game\newsnake\newsnake\menu.cpp(162): warning C4715: 'Menu::pauseMenu': not all control paths return a value
+  NewSnake.vcxproj -> C:\Users\Admin\Downloads\Snake Game\NewSnake\Debug\NewSnake.exe
+  NewSnake.vcxproj -> C:\Users\Admin\Downloads\Snake Game\NewSnake\Debug\NewSnake.pdb (Full PDB)

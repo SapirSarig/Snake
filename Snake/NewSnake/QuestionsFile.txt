@@ -1,0 +1,17 @@
+5
+0
+find a number that divides by x
+1 20
+1
+find a number bigger than x and smaller than x^2
+2 13
+2
+A$B$C=D
+1 20
+3
+find a number that the sum of its digits divides by x
+2 16
+4
+find a number that divides by A but not by B
+2 15
+
